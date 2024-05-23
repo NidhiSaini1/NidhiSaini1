@@ -19,13 +19,26 @@ My passion for data science is evident through my involvement in various impactf
 - **Details:** Employed machine learning methods to predict PCR and RFS by analyzing features from MRI scans prior to chemotherapy, highlighting the potential of AI in improving healthcare outcomes.
 
 ## 🛠 Technical Proficiency
-I am skilled in a variety of tools including SQL, JIRA, IBM DOORS, Alteryx, and programming in Python. These competencies enable me to lead and execute data-driven projects effectively, ensuring outcomes that exceed expectations.
+
+| Skills          | Tools & Technologies             |
+|-----------------|----------------------------------|
+| Data Visualization | Tableau, Power BI                |
+| Programming     | Python, SQL                      |
+| Big Data        | Apache Spark, Apache Airflow     |
+| Machine Learning| Sklearn             |
+| Data Wrangling  | Alteryx, Pandas, Matplotlb              |
+| Data Wrangling  | PostgresSQL, Apache Cassandra             |
+| Project Management | JIRA, IBM DOORS, Docker                          |
 
 ## 🌟 Career Aspiration
 As I progress in my academic journey, I am eager to apply my growing analytical skills to further innovate in the fields of data analytics and engineering. My goal is to secure a role that allows me to influence data-driven decision-making and technological advancement significantly.
 
 ## 📫 How to Reach Me
 For collaboration or inquiries, feel free to email me at [nidhi.r.saini@gmail.com](mailto:nidhi.r.saini@gmail.com).
+
+
+## 📄 View My CV
+You can view my full CV [here]((https://drive.google.com/file/d/1QRC8zcK1Zp6wvKHaz39kvR3JghKczi6z/view?usp=sharing)).
 
 ---
 
