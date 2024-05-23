@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a dedicated Business Intelligence Engineer wit
 My passion for data science is evident through my involvement in various impactful projects:
 
 ### Gesture Recognition
-- **Duration:** Feb 2024 - Present
+- **Duration:** Feb 2024 - May 2024
 - **Details:** Utilizing the Phyphox app, this project develops advanced machine learning models to recognize and predict human gestures, enhancing human-computer interaction and accessibility.
 
 ### SST Anomaly Forecasting
-- **Duration:** Jan 2024 - Present
+- **Duration:** Jan 2024 - May 2024
 - **Details:** This project focuses on forecasting Sea Surface Temperature using big data tools like Facebook's Prophet and Apache Spark’s MLib Random Forest, providing essential insights for environmental monitoring.
 
 ### Detecting Breast Cancer
