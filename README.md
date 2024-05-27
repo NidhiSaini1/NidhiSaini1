@@ -1,6 +1,6 @@
 # 🚀 About me: Nidhi Saini - Data Engineer
 
-Welcome to my GitHub profile! I'm a dedicated Business Intelligence Engineer with over three years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
+Welcome to my GitHub profile! I'm a dedicated Data Engineer with over three years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
 
 ## 🌐 Projects and Practical Applications
 
