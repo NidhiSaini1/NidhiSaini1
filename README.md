@@ -38,7 +38,7 @@ For collaboration or inquiries, feel free to email me at [nidhi.r.saini@gmail.co
 
 
 ## 📄 View My CV
-You can view my full CV [here](https://drive.google.com/file/d/1QRC8zcK1Zp6wvKHaz39kvR3JghKczi6z/view?usp=sharing).
+You can view my full CV [here](https://drive.google.com/file/d/19OaVYbkDTwtunSIHCsxFcmxVPtof3Ykd/view).
 
 
 ---
