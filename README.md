@@ -32,6 +32,7 @@ Machine Learning	Sklearn
 Data Wrangling	Alteryx, Pandas, Matplotlib
 Database Management	PostgreSQL, Apache Cassandra
 Project Management	JIRA, IBM DOORS, Docker
+
 🌟 Career Aspiration
 
 As I progress in my academic journey, I am eager to apply my growing analytical skills to further innovate in the fields of data analytics and engineering. My goal is to secure a role that allows me to significantly influence data-driven decision-making and technological advancement.
