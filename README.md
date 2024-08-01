@@ -1,4 +1,4 @@
-🚀 **About Me: Nidhi Saini - Data Engineer**
+🚀 ##About Me: Nidhi Saini - Data Engineer
 
 Welcome to my GitHub profile! I'm a dedicated Data Engineer with over 3.5 years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
 
@@ -29,10 +29,10 @@ My passion for data science is evident through my involvement in various impactf
 | Data Visualization      | Tableau, Power BI                                           |
 | Programming             | Python, SQL                                                 |
 | Big Data                | Apache Spark, Apache Airflow                                |
-| Machine Learning        | Sklearn                                                     |
-| Data Wrangling          | Alteryx, Pandas, Matplotlib                                 |
-| Database Management     | PostgreSQL, Apache Cassandra                                |
-| Project Management      | JIRA, IBM DOORS, Docker                                     |
+| Machine Learning        | Sklearn,Pandas, Matplotlib,Tensorflow,keras                 |
+| Data Wrangling          | Alteryx,                                                    |
+| Database Management     | PostgreSQL, Apache Cassandra,SQL server                     |
+| Project Management      | JIRA, IBM DOORS, Docker, Azure Data Studio                  |
 
 🌟 **Career Aspiration**
 
@@ -43,7 +43,7 @@ For collaboration or inquiries, feel free to email me at [nidhi.r.saini@gmail.co
 
 
 ## 📄 View My CV
-You can view my full CV [here](https://drive.google.com/file/d/19OaVYbkDTwtunSIHCsxFcmxVPtof3Ykd/view).
+You can view my full CV [here]([https://drive.google.com/file/d/19OaVYbkDTwtunSIHCsxFcmxVPtof3Ykd/view](https://drive.google.com/file/d/1SNgofTtk-wNr7TgYaZ-Zjb7I9Fw6NvGl/view?usp=sharing)).
 
 
 ---
