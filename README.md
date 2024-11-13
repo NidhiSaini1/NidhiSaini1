@@ -1,13 +1,13 @@
-## 🚀 About Me: Nidhi Saini - Data Engineer
+## 🚀 About Me: Nidhi Saini - Senior Data Analyst
 
-Welcome to my GitHub profile! I'm a dedicated Data Engineer with over 3.5 years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
+Welcome to my GitHub profile! I'm a dedicated Data Analyst with over 4 years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
 
 🌐 **Projects and Practical Applications**
 
 My passion for data science is evident through my involvement in various impactful projects:
 
 - **Product & Data Analyst Intern at Passport 365**  
-  **Duration:** July 2024 - Present  
+  **Duration:** July 2024 - September 2024  
   **Details:** Designing and managing policy databases with SQL Server and Azure Data Studio. Collaborating with sales and marketing teams to develop data pipelines and dashboards, enhancing data-driven decision-making.
 
 - **Gesture Recognition**  
@@ -40,11 +40,6 @@ As I progress in my academic journey, I am eager to apply my growing analytical 
 
 ## 📫 How to Reach Me
 For collaboration or inquiries, feel free to email me at [nidhi.r.saini@gmail.com](mailto:nidhi.r.saini@gmail.com).
-
-
-## 📄 View My CV
-You can view my full CV [here](https://drive.google.com/file/d/1xGhD5SYefoRhbj1TEzVY9XgBPc24g1yN/view?usp=sharing).
-
 
 ---
 
