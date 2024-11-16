@@ -1,4 +1,4 @@
-## 🚀 About Me: Nidhi Saini - Senior Data Analyst
+## About Me: Nidhi Saini - Senior Data Analyst
 
 Welcome to my GitHub profile! I'm a dedicated Data Analyst with over 4 years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
 
