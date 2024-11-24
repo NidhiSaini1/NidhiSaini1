@@ -5,23 +5,23 @@ Welcome to my GitHub profile! I am a passionate and versatile Data Analyst with 
 
 ## Academic and Internship Projects
 ### Product & Data Analyst Intern
-Duration: July 2024 - September 2024
-Details: Designed SQL-based databases and automated pipelines using Azure Data Studio to streamline workflows. Collaborated with sales and marketing teams to create dashboards that supported data-driven decision-making.
+Duration: July 2024 - September 2024\
+Details: Designed SQL-based databases and automated pipelines using Azure Data Studio to streamline workflows. Collaborated with sales and marketing teams to create dashboards that supported data-driven decision-making.\
 Impact: Reduced manual reporting time by 40% and improved data accuracy for critical business metrics.
 
 ### Gesture Recognition
-Duration: Feb 2024 - May 2024
-Details: Developed machine learning models using the Phyphox app to predict human gestures and enhance accessibility through human-computer interaction.
+Duration: Feb 2024 - May 2024\
+Details: Developed machine learning models using the Phyphox app to predict human gestures and enhance accessibility through human-computer interaction.\
 Impact: Enabled more intuitive interfaces for assistive technologies, improving usability for individuals with mobility challenges.
 
 ### SST Anomaly Forecasting
-Duration: Jan 2024 - May 2024
-Details: Forecasted sea surface temperature anomalies using big data tools like Apache Spark and Facebook Prophet.
+Duration: Jan 2024 - May 2024\
+Details: Forecasted sea surface temperature anomalies using big data tools like Apache Spark and Facebook Prophet.\
 Impact: Provided actionable insights for environmental monitoring and climate impact studies, helping organizations better prepare for climate-related changes.
 
 ### Breast Cancer Detection
-Duration: Oct 2023 - Dec 2023
-Details: Built machine learning models to analyze MRI data and predict treatment outcomes for cancer patients.
+Duration: Oct 2023 - Dec 2023\
+Details: Built machine learning models to analyze MRI data and predict treatment outcomes for cancer patients.\
 Impact: Improved prediction accuracy, showcasing the potential of AI in supporting early diagnosis and personalized healthcare.
 
 ---
