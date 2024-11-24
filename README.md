@@ -1,10 +1,10 @@
-About Me: Data Analyst | Data Science Enthusiast
+# About Me: Data Analyst | Data Science Enthusiast
 Welcome to my GitHub profile! I am a passionate and versatile Data Analyst with over 4 years of experience in data analytics, visualization, and automation. Currently, I have recently completed Master’s in Data Science at the University of Nottingham, where I  enhanced my technical and analytical expertise. I specialize in using tools like Tableau, Power BI, and Python to transform complex datasets into actionable insights and solve real-world problems.
 
 ---
 
-### Academic and Internship Projects
-Product & Data Analyst Intern
+## Academic and Internship Projects
+### Product & Data Analyst Intern
 Duration: July 2024 - September 2024
 Details: Designed SQL-based databases and automated pipelines using Azure Data Studio to streamline workflows. Collaborated with sales and marketing teams to create dashboards that supported data-driven decision-making.
 Impact: Reduced manual reporting time by 40% and improved data accuracy for critical business metrics.
