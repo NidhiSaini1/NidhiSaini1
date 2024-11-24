@@ -1,28 +1,28 @@
-# About Me: Nidhi Saini - Senior Data Analyst
-
-Welcome to my GitHub profile! I'm a dedicated Data Analyst with over 4 years of experience in Data Analytics. I am currently enhancing my skills as a Master of Data Science candidate at the University of Nottingham. I specialize in leveraging data visualization tools like Tableau and Power BI to transform complex data into actionable insights.
+About Me: Data Analyst | Data Science Enthusiast
+Welcome to my GitHub profile! I am a passionate and versatile Data Analyst with over 4 years of experience in data analytics, visualization, and automation. Currently, I have recently completed Master’s in Data Science at the University of Nottingham, where I  enhanced my technical and analytical expertise. I specialize in using tools like Tableau, Power BI, and Python to transform complex datasets into actionable insights and solve real-world problems.
 
 ---
 
-## 🌐 Projects and Practical Applications
+### Academic and Internship Projects
+Product & Data Analyst Intern
+Duration: July 2024 - September 2024
+Details: Designed SQL-based databases and automated pipelines using Azure Data Studio to streamline workflows. Collaborated with sales and marketing teams to create dashboards that supported data-driven decision-making.
+Impact: Reduced manual reporting time by 40% and improved data accuracy for critical business metrics.
 
-My passion for data science is evident through my involvement in various impactful projects:
+### Gesture Recognition
+Duration: Feb 2024 - May 2024
+Details: Developed machine learning models using the Phyphox app to predict human gestures and enhance accessibility through human-computer interaction.
+Impact: Enabled more intuitive interfaces for assistive technologies, improving usability for individuals with mobility challenges.
 
-### Product & Data Analyst Intern at Passport 365  
-**Duration**: July 2024 - September 2024  
-**Details**: Designing and managing policy databases with SQL Server and Azure Data Studio. Collaborating with sales and marketing teams to develop data pipelines and dashboards, enhancing data-driven decision-making.
+### SST Anomaly Forecasting
+Duration: Jan 2024 - May 2024
+Details: Forecasted sea surface temperature anomalies using big data tools like Apache Spark and Facebook Prophet.
+Impact: Provided actionable insights for environmental monitoring and climate impact studies, helping organizations better prepare for climate-related changes.
 
-### Gesture Recognition  
-**Duration**: Feb 2024 - May 2024  
-**Details**: Utilizing the Phyphox app, this project develops advanced machine learning models to recognize and predict human gestures, enhancing human-computer interaction and accessibility.
-
-### SST Anomaly Forecasting  
-**Duration**: Jan 2024 - May 2024  
-**Details**: This project focuses on forecasting Sea Surface Temperature using big data tools like Facebook's Prophet and Apache Spark’s MLib Random Forest, providing essential insights for environmental monitoring.
-
-### Detecting Breast Cancer  
-**Duration**: Oct 2023 - Dec 2023  
-**Details**: Employed machine learning methods to predict PCR and RFS by analyzing features from MRI scans prior to chemotherapy, highlighting the potential of AI in improving healthcare outcomes.
+### Breast Cancer Detection
+Duration: Oct 2023 - Dec 2023
+Details: Built machine learning models to analyze MRI data and predict treatment outcomes for cancer patients.
+Impact: Improved prediction accuracy, showcasing the potential of AI in supporting early diagnosis and personalized healthcare.
 
 ---
 
@@ -42,7 +42,7 @@ My passion for data science is evident through my involvement in various impactf
 
 ## 🌟 Career Aspiration
 
-As I progress in my academic journey, I am eager to apply my growing analytical skills to further innovate in the fields of data analytics and engineering. My goal is to secure a role that allows me to significantly influence data-driven decision-making and technological advancement.
+Having recently completed my Master’s in Data Science, I am eager to apply the knowledge and skills I’ve gained to real-world challenges. I’m passionate about using data to uncover insights, solve problems, and make a meaningful impact in dynamic, data-driven environments.
 
 ---
 
@@ -51,4 +51,5 @@ As I progress in my academic journey, I am eager to apply my growing analytical 
 For collaboration or inquiries, feel free to email me at **nidhi.r.saini@gmail.com**.
 
 Thank you for visiting my profile. I look forward to connecting with you and exploring potential opportunities.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=NidhiSaini1&color=blue&label=Profile%20Views)
